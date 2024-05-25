@@ -44,9 +44,11 @@ Overall, the script provides a convenient way to back up directories by compress
 To run the Task 1:
 Enter the the specific directory of PC: 
 chmod +x /directory/vaidik.sh
+
 sudo /directory/vaidik.sh /directory/users.csv
 
 To run the Task 2:
 Enter the the specific directory of PC: 
 chmod +x /directory/backup.sh
+
 sudo /directory/backup.sh 
